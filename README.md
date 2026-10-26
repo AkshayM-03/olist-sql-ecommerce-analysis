@@ -36,8 +36,8 @@ Revenue = product price of delivered orders only (freight excluded; canceled and
 - Revenue is by customer state, not seller state.
 
 ## Results
-![Monthly revenue](results/monthly_revenue.jpg)
-![Top categories](results/top_categories.jpg)
+![Monthly revenue](result/monthly_revenue.jpg)
+![Top categories](result/top_categories.jpg)
 
 ## How to reproduce
 Download the dataset from Kaggle, create a database called olist_ecommerce, run the scripts in the sql folder in numeric order, and import each CSV with the Table Data Import Wizard after running 01_create_tables.sql.
